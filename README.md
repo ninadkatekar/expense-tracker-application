@@ -93,10 +93,15 @@ Simplicity and Ease of Use: With its simple form and clear design, the Expense T
 Responsive Design: Whether you’re on a computer, tablet, or mobile phone, the app adapts to your screen size, making it usable anytime, anywhere.
 
 Possible Future Enhancements:
+
 Expense Categories: Allow users to categorize expenses (e.g., "Food", "Transport", "Entertainment") and display the pie chart according to categories.
+
 User Authentication: Implement a sign-in system so users can save their expenses across sessions.
+
 Exporting Data: Allow users to export their expense data to a CSV or Excel file for offline analysis.
+
 Budget Tracker: Add a feature to track a user’s monthly budget and alert them when they exceed it.
+
 Screenshots
 Here are some screenshots of the Expense Tracker App in action:
 
@@ -134,10 +139,15 @@ View the summary:
 A pie chart on the right shows the distribution of expenses.
 The summary section displays the Total Expenses, Highest Expense, and Lowest Expense.
 
-License
+License :
+
 This project is licensed under the MIT License.
 
 Acknowledgments
+
 React.js: For building the user interface.
+
 Recharts: For creating interactive and visually appealing charts.
+
 Poppins: Font used for styling the app's text.
+
