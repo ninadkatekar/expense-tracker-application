@@ -1,7 +1,9 @@
 # expense-tracker-application
 
 Expense Tracker App
+
 Overview
+
 The Expense Tracker app is a powerful and intuitive tool designed to help users manage their finances by tracking their daily expenses. Built with React.js, the app provides a simple and interactive user experience that allows users to easily add, view, and delete their expenses. In addition, it visualizes the data through a pie chart, providing insights into spending patterns.
 
 The app provides a clean and modern design with a focus on simplicity and usability, making it ideal for anyone looking to better understand their spending habits and maintain control over their finances.
