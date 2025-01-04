@@ -124,6 +124,18 @@ This screenshot shows the expense summary section along with the pie chart visua
 This screenshot demonstrates the responsive design of the app on a mobile device. As the screen size adjusts, the layout adapts to ensure a smooth and user-friendly experience.
 ![image](https://github.com/user-attachments/assets/73d0cfd5-dc25-4f11-8ac1-0699720f2ef0)
 
+├── src/
+│   ├── components/                  # Folder for React components
+│   │   ├── ExpenseForm.js           # Component for adding new expenses
+│   │   ├── ExpenseList.js           # Component for displaying the list of expenses
+│   │   └── ExpenseSummary.js        # Component for showing expense summary
+│   │
+│   ├── styles/                      # Folder for styling files
+│   │   └── styles.css               # Main CSS file for app styling
+│   │
+│   ├── App.js                       # Main React component (App component)
+│   ├── index.js                     # Entry point for the React app (ReactDOM render)
+│   └── reportWebVitals.js       
 
 Usage
 Add an expense:
